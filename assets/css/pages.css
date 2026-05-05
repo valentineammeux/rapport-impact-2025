@@ -1939,3 +1939,6 @@ span.Sans {
         display: none !important;
     }
 }
+.page-scale-wrap {
+    transform: none !important;
+}
